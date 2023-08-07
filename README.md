@@ -1,4 +1,4 @@
-- 👋, I'm Adam (@agfrisch)
+- 👋 I'm Adam (@agfrisch)
 - :mortar_board: I have a Computer Science A.S. from Western Nebraska COmmunity College
 <!--
 **agfrisch/agfrisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
