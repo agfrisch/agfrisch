@@ -5,7 +5,7 @@
 - :mag_right: I'm looking to expand my knowledge base and start a career in software development.
 - :zap: Fun Fact: The actress who played Rory on *Gilmore Girls* told me my mustache looked "stupid".
 <p align="center">
-  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicago_Bears_logo.svg">
+  <img width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicago_Bears_logo.svg">
 </p>
  
 
