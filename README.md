@@ -1,7 +1,9 @@
 ### About Me:
+---
 - 👋 Hi, I'm Adam! (@agfrisch)
-- :mortar_board: I have a Computer Science A.S. from [Western Nebraska Community College](https://www.wncc.edu) :computer:
+- :mortar_board: I have an A.S. in Computer Science from [Western Nebraska Community College](https://www.wncc.edu).
 - :atom: I have experience with C#, C++, Java, JavaScript, Python, and more!
+
 <!--
 **agfrisch/agfrisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
