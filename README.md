@@ -1,5 +1,5 @@
 # Adam Frisch - @agfrisch
-## About Me:
+### About Me:
 - :package: I currently work as a supervisor at U.P.S.
 - :mortar_board: I have an A.S. in Computer Science from [Western Nebraska Community College](https://www.wncc.edu).
 - :atom: I have experience with C#, C++, Java, JavaScript, Python, and more!
