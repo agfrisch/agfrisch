@@ -1,4 +1,4 @@
-## About Me:
+### About Me:
 - 👋 Hi, I'm Adam! (@agfrisch)
 - :mortar_board: I have a Computer Science A.S. from [Western Nebraska Community College](https://www.wncc.edu) :computer:
 - :atom: I have experience with C#, C++, Java, JavaScript, Python, and more!
